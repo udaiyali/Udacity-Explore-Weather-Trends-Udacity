@@ -15,7 +15,9 @@ An outline of steps taken to prepare the data to be visualized in the chart, suc
 
 Tools Used
 Python
+
 SQL
+
 Excel
 
 **Submission**
